@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Simon
-[![42 Barcelona](https://img.shields.io/badge/42%20Barcelona-Student-informational?style=for-the-badge&logo=appveyor)](https://www.42barcelona.com) [![42 Network](https://img.shields.io/badge/42%20Network-Member-informational?style=for-the-badge&logo=appveyor)](https://42network.org)  
-[![Profile views](https://komarev.com/ghpvc/?username=SimonIsCoding&color=blue&style=flat-square)](https://github.com/SimonIsCoding) [![C](https://img.shields.io/badge/C-language-%232573A7?style=for-the-badge&logo=c&logoColor=white)] [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)] [![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)]
+[![42 Barcelona](https://img.shields.io/badge/42%20Barcelona-Student-informational?style=for-the-badge&logo=appveyor)](https://www.42barcelona.com) [![42 Network](https://img.shields.io/badge/42%20Network-Member-informational?style=for-the-badge&logo=appveyor)](https://42network.org)
 
 [![simarcha's 42 stats](https://badge.mediaplus.ma/greenbinary/simarcha?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
