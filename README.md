@@ -37,8 +37,8 @@ I work with:
 - **Cybersecurity:** Burp Suite, Kali Linux  
 - **Tools:** Git, Docker, VS Code, Linux
 
-
 ## 🧠 Tech Stack
+
 <p align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="margin: 10px;" />
@@ -49,8 +49,8 @@ I work with:
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" style="margin: 10px;" />
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="margin: 10px;" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bash-original.svg" alt="Shell" height="40" style="margin: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Makefile_logo.svg" alt="Makefile" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell / Bash" height="40" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Makefile_icon.svg" alt="Makefile" height="40" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite3" height="40" style="margin: 10px;" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="margin: 10px;" />
