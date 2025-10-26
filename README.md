@@ -50,7 +50,7 @@ I work with:
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="margin: 10px;" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell / Bash" height="40" style="margin: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Makefile_icon.svg" alt="Makefile" height="40" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/GNU_Make_logo.svg" alt="GNU Make" height="40" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite3" height="40" style="margin: 10px;" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="margin: 10px;" />
