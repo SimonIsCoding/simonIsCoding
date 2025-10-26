@@ -8,7 +8,7 @@ I **love** everything about **computers and computer science** — there’s so 
 I’m passionate about **solving problems through clean, efficient, and well-structured code** to boost my productivity.  
 My main interests lie in **Cybersecurity**, **software development**, and **system design** — and I also enjoy **mathematics** and **electronics**.
 
-- 🎯 Constantly learning and improving my skills in modern technologies  
+- 🎯 Passionate about understanding systems from the inside out — from algorithms to network layers 
 - 🌱 Exploring the world of **ethical hacking** and **network security**  
 - 💼 Open to **freelance collaborations** and **remote opportunities**
 
@@ -68,7 +68,6 @@ I work with:
 ## 📫 Contact Me
 If you’re looking for a motivated and detail-oriented developer for freelance or collaborative projects, feel free to reach out!
 
-
-- ✉️ Email: <a href='mailto:sim.arch@proton.me' target="_blank"><img alt='ProtonMail' src='https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white'/></a>
+<a href='mailto:sim.arch@proton.me' target="_blank"><img alt='ProtonMail' src='https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white'/></a>
 <!-- - 🌐 Portfolio: [your-portfolio-link.com]  -->
-- 💼 LinkedIn: <a href='linkedin.com/in/simon-archambault-57687a1b7' target="_blank"><img alt='ProtonMail' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='linkedin.com/in/simon-archambault-57687a1b7' target="_blank"><img alt='ProtonMail' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
