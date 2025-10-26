@@ -70,4 +70,4 @@ If you’re looking for a motivated and detail-oriented developer for freelance 
 
 <a href='mailto:sim.arch@proton.me' target="_blank"><img alt='ProtonMail' src='https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white'/></a>
 <!-- - 🌐 Portfolio: [your-portfolio-link.com]  -->
-<a href='linkedin.com/in/simon-archambault-57687a1b7' target="_blank"> Better by email<img alt='ProtonMail' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='linkedin.com/in/simon-archambault-57687a1b7' target="_blank"><img alt='ProtonMail' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
