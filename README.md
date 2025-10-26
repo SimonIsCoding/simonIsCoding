@@ -49,7 +49,6 @@ I work with:
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="margin: 10px;" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell / Bash" height="40" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/GNU%20Make-%23A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GNU Make" height="28" style="margin: 10px; vertical-align: middle;" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite3" height="40" style="margin: 10px;" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="margin: 10px;" />
