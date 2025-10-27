@@ -36,7 +36,7 @@ I work with:
 - **Cybersecurity:** Burp Suite, Kali Linux  
 - **Tools:** Git, Docker, VS Code, Linux
 
-## 🧠 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" style="margin: 10px;" />
