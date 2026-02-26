@@ -65,7 +65,7 @@ I work with:
   <img src="https://cdn.brandfetch.io/idO6_6uqJ9/w/600/h/600/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1763457410569" alt="n8n" height="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/arduino.svg" alt="Arduino" height="40" />
   <img src="https://logowik.com/content/uploads/images/nginx7281.logowik.com.webp" alt="Nginx" height="40" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" height="40" />
+  <img src="https://cdn.brandfetch.io/idO6_6uqJ9/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1763457415601" alt="n8n" height="40" />
 
 </p>
 
