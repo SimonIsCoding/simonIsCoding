@@ -78,7 +78,7 @@ I work with:
 ---
 
 ## 📫 Contact Me
-If you’re looking for a motivated and detail-oriented developer for a <!--freelance or --> collaborative projects, feel free to reach out!
+If you’re looking for a motivated and detail-oriented developer for <!--freelance or --> collaborative projects, feel free to reach out!
 
 <a href='mailto:sim.arch@proton.me' target="_blank"><img alt='ProtonMail' src='https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white'/></a>
 <!--
