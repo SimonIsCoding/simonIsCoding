@@ -1,7 +1,11 @@
 # Hi there 👋 I'm Simon
+<div align="center">
+
 [![42 Barcelona](https://img.shields.io/badge/42%20Barcelona-Student-informational?style=for-the-badge&logo=appveyor)](https://www.42barcelona.com) [![42 Network](https://img.shields.io/badge/42%20Network-Member-informational?style=for-the-badge&logo=appveyor)](https://42network.org)
 
 [![simarcha's 42 stats](https://badge.mediaplus.ma/greenbinary/simarcha?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+</div>
 
 ## 👨‍💻 About Me
 I **love** everything about **computers and computer science** — there’s so much to explore, and I’m always eager to learn more.  
@@ -38,7 +42,7 @@ I work with:
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="margin: 10px;" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" style="margin: 10px;" />
@@ -62,9 +66,14 @@ I work with:
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SimonIsCoding&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SimonIsCoding&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonIsCoding&layout=compact&theme=tokyonight)
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SimonIsCoding&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonIsCoding&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonIsCoding&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
