@@ -23,7 +23,7 @@ Here are a few highlights from my work:
 
 - 🏓 **[FT_TRANSCENDENCE](https://github.com/SimonIsCoding/ft_transcendence)** — A full-stack **PONG** game built with **TypeScript** and **Node.js**.  
   This project includes numerous features I’d love to let you discover 😋
-- 🗺️ ** [Google Maps Lead Extraction](https://github.com/SimonIsCoding/Google-Maps-Leads)** Automates Google Maps scraping to instantly export filtered business leads — sorted by missing website — directly into a Google Sheet.
+- 🗺️ **[Google Maps Lead Extraction](https://github.com/SimonIsCoding/Google-Maps-Leads)** Automates Google Maps scraping to instantly export filtered business leads — sorted by missing website — directly into a Google Sheet.
 - 🧊 **[CUB3D](https://github.com/pauldahacker/cub3d)** — A **raycasting 3D engine** from a 2D map, inspired by *Wolfenstein 3D*.  
 - ⚙️ **[Minishell](https://github.com/SimonIsCoding/minishell)** — A **Unix shell implementation in C**, featuring command execution, environment variable management, pipes, redirections, and here-documents.  
 - 📈 **[PushSwap](https://github.com/SimonIsCoding/push_swap)** — A **sorting algorithm challenge** to efficiently sort up to 500 numbers under strict constraints.  
