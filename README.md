@@ -65,9 +65,10 @@ I work with:
 <a href="https://n8n.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" height="40" />
 </a>
-  <a href="https://www.nginx.com/" target="_blank">
+  <!-- <a href="https://www.nginx.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" />
-  </a>
+  </a> -->
+  <a href="https://logowik.com/nginx-logo-vector-55348.html"><img src="https://logowik.com/content/uploads/images/nginx7281.logowik.com.webp" alt="Nginx" height="40"></a>
 
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/arduino.svg" alt="Arduino" height="40" />
