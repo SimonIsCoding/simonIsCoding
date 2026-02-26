@@ -68,10 +68,9 @@ I work with:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SimonIsCoding&show_icons=true&theme=tokyonight" />
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=SimonIsCoding&show_icons=true&theme=tokyonight" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonIsCoding&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonIsCoding&layout=compact&theme=tokyonight" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonIsCoding&layout=compact&theme=tokyonight" /> -->
 
 </div>
 
