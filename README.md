@@ -66,9 +66,6 @@ I work with:
   <img src="https://profilinator.rishav.dev/skills-assets/arduino.svg" alt="Arduino" height="40" />
   <img src="https://logowik.com/content/uploads/images/nginx7281.logowik.com.webp" alt="Nginx" height="40" />
   <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" height="40" />
-  <!-- <a href="https://www.nginx.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" />
-  </a> -->
 
 </p>
 
