@@ -28,7 +28,7 @@ Here are a few highlights from my work:
 - ⚙️ **[Minishell](https://github.com/SimonIsCoding/minishell)** — A **Unix shell implementation in C**, featuring command execution, environment variable management, pipes, redirections, and here-documents.  
 - 📈 **[PushSwap](https://github.com/SimonIsCoding/push_swap)** — A **sorting algorithm challenge** to efficiently sort up to 500 numbers under strict constraints.  
 - 🌀 **[Fractol](https://github.com/SimonIsCoding/fractol)** — A **fractal visualizer** built with **C** and **MiniLibX**, combining math and graphics programming.  
-- 🗪 **[ft_irc](https://github.com/SimonIsCoding/ft_irc)** — An **IRC server** implemented in **C++98**, leveraging Linux system calls.
+- 📡 **[ft_irc](https://github.com/SimonIsCoding/ft_irc)** — An **IRC server** implemented in **C++98**, leveraging Linux system calls.
 
 ---
 
