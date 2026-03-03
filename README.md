@@ -1,7 +1,10 @@
 # Hi there 👋 I'm Simon
 <div align="center">
 
-[![42 Barcelona](https://img.shields.io/badge/42%20Barcelona-Student-informational?style=for-the-badge&logo=appveyor)](https://www.42barcelona.com) [![42 Network](https://img.shields.io/badge/42%20Network-Member-informational?style=for-the-badge&logo=appveyor)](https://42network.org)
+[![42 Barcelona](https://img.shields.io/badge/42%20Barcelona-Student-informational?style=for-the-badge&logo=appveyor)](https://www.42barcelona.com) 
+[![42 Barcelona](https://img.shields.io/badge/42%20Kuala%20Lumpur-Student-informational?style=for-the-badge&logo=appveyor)](https://42kl.edu.my/)
+[![42 Barcelona](https://img.shields.io/badge/42%20Paris-Student-informational?style=for-the-badge&logo=appveyor)](https://42.fr/en/homepage/)
+[![42 Network](https://img.shields.io/badge/42%20Network-Member-informational?style=for-the-badge&logo=appveyor)](https://42network.org)
 
 [![simarcha's 42 stats](https://badge.mediaplus.ma/greenbinary/simarcha?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
