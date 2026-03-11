@@ -88,7 +88,7 @@ I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="40" />
 
   <!-- Hors devicon — shields.io badge carré homogène -->
-  <img src="https://www.svgrepo.com/show/473687/kalilinux.svg" alt="Kali Linux" height="40" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/kali-linux.svg" alt="Kali Linux" height="40" />
   <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" height="40" />
   <!-- <img src="https://img.shields.io/badge/n8n-E63946?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="40" /> -->
 
