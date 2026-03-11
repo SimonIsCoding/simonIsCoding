@@ -88,9 +88,9 @@ I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="40" />
 
   <!-- Hors devicon — shields.io badge carré homogène -->
-  <!-- <img src="https://img.shields.io/badge/n8n-E63946?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="40" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" height="40" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" height="40" /> -->
+  <img src="https://brandfetch.com/kali-linux.com?view=library&library=default&collection=logos&asset=idPSkQR1XG&utm_source=https%253A%252F%252Fbrandfetch.com%252Fkali-linux.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="Kali Linux" height="40" />
+  <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" height="40" />
+  <!-- <img src="https://img.shields.io/badge/n8n-E63946?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="40" /> -->
 
 </p>
 
