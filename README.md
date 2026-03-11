@@ -65,11 +65,11 @@ I work with:
   <!-- DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" height="40" />
   
-  <!-- Runtime & Package --><br>
+  <!-- Runtime & Package -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40" />
 
-  <!-- DevOps & Infra --><br>
+  <!-- DevOps & Infra -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" height="40" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="Ansible" height="40" />
@@ -77,15 +77,15 @@ I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /> -->
 
-  <!-- Outils --><br>
+  <!-- Outils -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="40" />
 
-  <!-- Hors devicon — shields.io badge carré homogène --><br>
-  <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" height="40" />
-  <!-- <img src="https://img.shields.io/badge/n8n-E63946?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="40" /> -->
+  <!-- Hors devicon — shields.io badge carré homogène -->
+  <!-- <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" height="40" />
+  <img src="https://img.shields.io/badge/n8n-E63946?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="40" /> -->
 
   <!-- OS --><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="40" />
