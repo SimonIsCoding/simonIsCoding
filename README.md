@@ -54,6 +54,7 @@ I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="40" />
   <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" alt="Assembly" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" height="40" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" height="40" /> -->
 
   <!-- Web -->
@@ -77,10 +78,6 @@ I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /> -->
 
-  <!-- OS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" height="40" />
-
   <!-- Outils -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="40" />
@@ -88,9 +85,13 @@ I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="40" />
 
   <!-- Hors devicon — shields.io badge carré homogène -->
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/kali-linux.svg" alt="Kali Linux" height="40" />
   <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" height="40" />
   <!-- <img src="https://img.shields.io/badge/n8n-E63946?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="40" /> -->
+
+  <!-- OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="40" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/kali-linux.svg" alt="Kali Linux" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/960px-Apple_Computer_Logo_rainbow.svg.png?_=20250629104313" alt="Apple OS" height="40" />
 
 </p>
 
