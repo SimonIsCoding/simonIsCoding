@@ -115,3 +115,5 @@ If you’re looking for a motivated and detail-oriented developer for <!--freela
 	<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
  -->
+
+![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonIsCoding&layout=compact&theme=vision-friendly-dark)
