@@ -10,15 +10,15 @@
 
 </div>
 
-## 👨‍💻 About Me
+<!-- ## 👨‍💻 About Me
 I **love** everything about **computers and computer science** — there’s so much to explore, and I’m always eager to learn more.  
 I’m passionate about **solving problems through clean, efficient, and well-structured code** to boost my productivity.  
 My main interests lie in **Cybersecurity**, **software development**, and **system design** — and I also enjoy **mathematics** and **electronics**.
 
 - 🎯 Passionate about understanding systems from the inside out — from algorithms to network layers 
 - 🌱 Exploring the world of **ethical hacking** and **network security**  
-- 💼 Open to **freelance collaborations** and **remote opportunities**
-
+- 💼 Open to **freelance collaborations** and **remote opportunities** 
+-->
 ---
 
 ## 🚀 Projects I'm Most Proud Of
